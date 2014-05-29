@@ -1,3 +1,9 @@
+/**
+ * Copyright (c) 2005-2014 NetSeer, Inc.  All rights reserved.
+ * netseer_dynamic_release.java
+ * @author Nima
+ */
+ 
 (function(window, document, callback) {
     var version_needed = "1.7";
     var j, d;
